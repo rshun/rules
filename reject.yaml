@@ -1,4 +1,91 @@
 payload:
+  - DOMAIN-SUFFIX,5556.cc
+  - DOMAIN-SUFFIX,0530yp.com
+  - DOMAIN-SUFFIX,181230.com
+  - DOMAIN-SUFFIX,1.click.com.cn
+  - DOMAIN-SUFFIX,25hoytave.com
+  - DOMAIN-SUFFIX,2mavl8.xyz
+  - DOMAIN-SUFFIX,3659aa.cc
+  - DOMAIN-SUFFIX,384880.com
+  - DOMAIN-SUFFIX,51ttxue.com
+  - DOMAIN-SUFFIX,60cu.xyz
+  - DOMAIN-SUFFIX,69.aixibanya.com.cn
+  - DOMAIN-SUFFIX,7575761.com
+  - DOMAIN-SUFFIX,7k7k.com
+  - DOMAIN-SUFFIX,86clouds.com
+  - DOMAIN-SUFFIX,8dk7bs.tw
+  - DOMAIN-SUFFIX,ai81ab.com
+  - DOMAIN-SUFFIX,ai88aa.com
+  - DOMAIN-SUFFIX,ai88ab.com
+  - DOMAIN-SUFFIX,akbfxh.tw
+  - DOMAIN-SUFFIX,amam8.com
+  - DOMAIN-SUFFIX,analytics.126.net
+  - DOMAIN-SUFFIX,anysearch.cc
+  - DOMAIN-SUFFIX,avzz3.com
+  - DOMAIN-SUFFIX,bandarjudiresmi303.com
+  - DOMAIN-SUFFIX,bestanimegame.com
+  - DOMAIN-SUFFIX,bixian77.cn
+  - DOMAIN-SUFFIX,bj0021.com
+  - DOMAIN-SUFFIX,bj00592.com
+  - DOMAIN-SUFFIX,bj00593.com
+  - DOMAIN-SUFFIX,bmclima.com
+  - DOMAIN-SUFFIX,bnpzhned.tw
+  - DOMAIN-SUFFIX,cn.pornhub.com
+  - DOMAIN-SUFFIX,diandongzhi.com
+  - DOMAIN-SUFFIX,epochtimes.com
+  - DOMAIN-SUFFIX,gdgzjh.com
+  - DOMAIN-SUFFIX,gomhxt.com
+  - DOMAIN-SUFFIX,hotbak.net
+  - DOMAIN-SUFFIX,hxcpp24.com
+  - DOMAIN-SUFFIX,hxcpp39.com
+  - DOMAIN-SUFFIX,iwctqk.cn
+  - DOMAIN-SUFFIX,j9cn16.com
+  - DOMAIN-SUFFIX,j9cn21.com
+  - DOMAIN-SUFFIX,leierl314.tw
+  - DOMAIN-SUFFIX,lulr.top
+  - DOMAIN-SUFFIX,lypckj.com
+  - DOMAIN-SUFFIX,ocsp.dcocsp.cn
+  - DOMAIN-SUFFIX,p67a.com
+  - DOMAIN-SUFFIX,p67b.com
+  - DOMAIN-SUFFIX,p67c.com
+  - DOMAIN-SUFFIX,p67.com
+  - DOMAIN-SUFFIX,p67d.com
+  - DOMAIN-SUFFIX,p67e.com
+  - DOMAIN-SUFFIX,p67f.com
+  - DOMAIN-SUFFIX,p67g.com
+  - DOMAIN-SUFFIX,p67h.com
+  - DOMAIN-SUFFIX,p67i.com
+  - DOMAIN-SUFFIX,p67j.com
+  - DOMAIN-SUFFIX,p67k.com
+  - DOMAIN-SUFFIX,p67l.com
+  - DOMAIN-SUFFIX,p67m.com
+  - DOMAIN-SUFFIX,p67n.com
+  - DOMAIN-SUFFIX,p67o.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pronhub.com
+  - DOMAIN-SUFFIX,pt.nlerzl0.cn
+  - DOMAIN-SUFFIX,sanshikm.com
+  - DOMAIN-SUFFIX,saxs.sina.cn
+  - DOMAIN-SUFFIX,saxs.sina.com.cn
+  - DOMAIN-SUFFIX,senjimuye.cn
+  - DOMAIN-SUFFIX,smartadaddress.com
+  - DOMAIN-SUFFIX,sogou.com
+  - DOMAIN-SUFFIX,sssvip.shop
+  - DOMAIN-SUFFIX,t66y.com
+  - DOMAIN-SUFFIX,tenghua-tex.com
+  - DOMAIN-SUFFIX,tg9.com
+  - DOMAIN-SUFFIX,vgamesom.com
+  - DOMAIN-SUFFIX,vjqxh.cn
+  - DOMAIN-SUFFIX,wujindiandu.net
+  - DOMAIN-SUFFIX,xcx.comying.cn
+  - DOMAIN-SUFFIX,yc000666.com
+  - DOMAIN-SUFFIX,yiqifa.com
+  - DOMAIN-SUFFIX,yiyishe333.cn
+  - DOMAIN-SUFFIX,yjiuping.com
+  - DOMAIN-SUFFIX,youporn.com
+  - DOMAIN-SUFFIX,ys7.com
+  - DOMAIN-SUFFIX,news.sina.com.cn
+  - DOMAIN-SUFFIX,sports.sina.com.cn
   - DOMAIN-SUFFIX,yinxiang.com
   - DOMAIN-SUFFIX,ad.foxitsoftware.com
   - DOMAIN-SUFFIX,pis.foxitsoftware.com
@@ -36,7 +123,6 @@ payload:
   - DOMAIN-SUFFIX,trackingio.com
   - DOMAIN-SUFFIX,eco.taobao.com
   - DOMAIN-SUFFIX,ad.12306.cn
-  - DOMAIN-KEYWORD,myqcloud.com
   - DOMAIN-SUFFIX,baichuan-sdk.taobao.com
   - DOMAIN-SUFFIX,bonree.com
   - DOMAIN-SUFFIX,img1.ileci.com
@@ -174,6 +260,40 @@ payload:
   - DOMAIN,pingjs.qq.com
   - DOMAIN,pingma.qq.com
   - DOMAIN,tajs.qq.com  
+  - DOMAIN-SUFFIX,ad.mi.com
+  - DOMAIN-SUFFIX,adv.sec.miui.com
+  - DOMAIN-SUFFIX,api.e.mi.com
+  - DOMAIN-SUFFIX,mivideo.g.mi.com
+  - DOMAIN-SUFFIX,gallery.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,api.ad.xiaomi.com
+  - DOMAIN-SUFFIX,cdn.ad.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
+  - DOMAIN-SUFFIX,e.ad.xiaomi.com
+  - DOMAIN-SUFFIX,log.ad.xiaomi.com
+  - DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
+  - DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
+  - DOMAIN-SUFFIX,stat.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,test.ad.xiaomi.com
+  - DOMAIN-SUFFIX,test.e.ad.xiaomi.com
+  - DOMAIN-SUFFIX,test.zeus.ad.xiaomi.com
+  - DOMAIN-SUFFIX,zeus.ad.xiaomi.com
+  - DOMAIN-SUFFIX,wtradv.market.xiaomi.com
+  - DOMAIN-SUFFIX,bss.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,de.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,starfish.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,mishop.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,upgrade.mishop.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,deweys.com
+  - DOMAIN-SUFFIX,8amgolf.com
+  - DOMAIN-SUFFIX,mccourtfoundation.org
+  - DOMAIN-SUFFIX,wedreamincolour.com
+  - DOMAIN-SUFFIX,granolalab.com
+  - DOMAIN-SUFFIX,summermooncoffee.com
+  - DOMAIN-SUFFIX,howyoubrewin.com
+  - DOMAIN-SUFFIX,graymarketdesign.com
+  - DOMAIN-SUFFIX,sognotoscano.com
   - IP-CIDR,221.179.140.0/24
   - IP-CIDR,198.18.1.0/24
   - IP-CIDR,198.18.0.0/24
