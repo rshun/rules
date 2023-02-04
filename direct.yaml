@@ -27,7 +27,8 @@ payload:
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,clashroyaleapp.com
   - DOMAIN-SUFFIX,outlook.com
-  - DOMAIN-KEYWORD,tinder.com
+  - DOMAIN-SUFFIX,tinder.com
+  - DOMAIN-SUFFIX,gotinder.com
   - DOMAIN-SUFFIX,tindersparks.com  
   - DOMAIN,injections.adguard.org
   - DOMAIN,local.adguard.org  
