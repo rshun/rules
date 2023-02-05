@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,msftconnecttest.com
