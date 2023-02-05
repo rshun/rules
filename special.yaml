@@ -3,4 +3,7 @@ payload:
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,googlevideo
   - DOMAIN-KEYWORD,googleapis
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-SUFFIX,google.com
   - DOMAIN-KEYWORD,zxzj
+  - DOMAIN-SUFFIX,google.com
