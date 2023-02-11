@@ -5,4 +5,5 @@ payload:
   - DOMAIN-KEYWORD,googleapis
   - DOMAIN-KEYWORD,instagram
   - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-KEYWORD,zxzj
