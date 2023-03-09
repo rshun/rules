@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,datadoghq.com
+  - DOMAIN-SUFFIX,51cto.com
   - DOMAIN-SUFFIX,5556.cc
   - DOMAIN-SUFFIX,0530yp.com
   - DOMAIN-SUFFIX,181230.com
