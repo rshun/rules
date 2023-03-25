@@ -10,3 +10,8 @@ payload:
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-KEYWORD,zxzj
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,instagram
