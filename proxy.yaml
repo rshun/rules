@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,evernote.com
   - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,theinitium.com
