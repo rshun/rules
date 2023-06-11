@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,e-resident.gov.ee
+  - DOMAIN-KEYWORD,discord.com
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,bwbx
   - DOMAIN-KEYWORD,linkedin
