@@ -38,8 +38,6 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,e-resident.gov.ee
-  - DOMAIN-KEYWORD,discord.com
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,bwbx
   - DOMAIN-KEYWORD,linkedin
   - DOMAIN-KEYWORD,barrons
@@ -72,7 +70,6 @@ payload:
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,azure-
   - DOMAIN-KEYWORD,ftchinese
-  - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-SUFFIX,xiaoheimi.net
   - DOMAIN-SUFFIX,pgw-cld-ml.alicdn
   - DOMAIN-SUFFIX,t.co
