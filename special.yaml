@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,twitter
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,googlevideo
