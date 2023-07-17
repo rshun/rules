@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,chinadigitaltimes.net
+  - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,booksc.eu
   - DOMAIN-SUFFIX,thetvdb.com
