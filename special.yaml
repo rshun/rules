@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,spotify
   - DOMAIN-KEYWORD,twimg
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,youtube
