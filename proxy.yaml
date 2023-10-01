@@ -1,5 +1,37 @@
 payload:
-  - DOMAIN-SUFFIX,threads.net
+# > Twitter
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,twimg.co
+  - DOMAIN-SUFFIX,twimg.com
+  - DOMAIN-SUFFIX,twitpic.com
+  - DOMAIN-SUFFIX,vine.co
+  - DOMAIN-KEYWORD,twitter
+  - IP-CIDR,69.195.160.0/19
+  - IP-CIDR,104.244.42.0/21
+  - IP-CIDR,192.133.76.0/22
+  - IP-CIDR,199.16.156.0/22
+  - IP-CIDR,199.59.148.0/22
+  - IP-CIDR,199.96.56.0/21
+  - IP-CIDR,202.160.128.0/22
+  - IP-CIDR,209.237.192.0/19
+# > Telegram
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,tdesktop.com
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,telegram.org
+  - IP-CIDR,67.198.55.0/24
+  - IP-CIDR,91.108.4.0/22
+  - IP-CIDR,91.108.8.0/22
+  - IP-CIDR,91.108.12.0/22
+  - IP-CIDR,91.108.16.0/22  
+  - IP-CIDR,91.108.56.0/22  
+  - IP-CIDR,109.239.140.0/24  
+  - IP-CIDR,149.154.160.0/20  
+  - IP-CIDR,205.172.60.0/22  
+# > Other
   - DOMAIN-SUFFIX,libzip.org
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,chinadigitaltimes.net
@@ -12,25 +44,18 @@ payload:
   - DOMAIN-SUFFIX,evernote.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,pinterest.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,vol.moe
-  - DOMAIN-SUFFIX,tweetdeck.com
   - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX,fb.me
-  - DOMAIN-SUFFIX,telegram.org
-  - DOMAIN-SUFFIX,fbcdn.net
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,youtu.be 
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,bit.ly
-  - DOMAIN-SUFFIX,tripadvisor.com
-  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,tripadvisor.com  
   - DOMAIN-SUFFIX,getpocket.com
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,dw.com
@@ -53,15 +78,8 @@ payload:
   - DOMAIN-KEYWORD,economist
   - DOMAIN-KEYWORD,justmysock
   - DOMAIN-KEYWORD,airbnb
-  - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,gmail
-  - DOMAIN-KEYWORD,youtube
-  - DOMAIN-KEYWORD,facebook
-  - DOMAIN-KEYWORD,twitter
-  - DOMAIN-KEYWORD,instagram
   - DOMAIN-KEYWORD,medium
   - DOMAIN-KEYWORD,dropbox
-  - DOMAIN-KEYWORD,blogspot
   - DOMAIN-KEYWORD,whatsapp
   - DOMAIN-KEYWORD,nytimes
   - DOMAIN-KEYWORD,leetcode
@@ -86,15 +104,12 @@ payload:
   - DOMAIN-SUFFIX,gvt2.com
   - IP-CIDR, 31.13.67.0/24
   - IP-CIDR, 74.86.118.0/24
-  - IP-CIDR, 91.108.0.0/16
   - IP-CIDR, 95.217.0.0/16
   - IP-CIDR, 108.160.170.0/24  
   - IP-CIDR, 142.250.0.0/16
   - IP-CIDR, 142.251.0.0/16
   - IP-CIDR, 144.76.0.0/24
   - IP-CIDR, 149.154.0.0/16
-  - IP-CIDR, 172.217.160.0/24
-  - IP-CIDR, 172.217.163.0/24
   - IP-CIDR, 185.204.1.0/24
   - IP-CIDR, 198.35.26.0/24
   - IP-CIDR, 199.59.150.0/24

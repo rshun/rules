@@ -1,12 +1,24 @@
 payload:
+# > Microsoft
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,sfx.ms
+  - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-KEYWORD,officecdn
+  - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,outlook.com
+# > Apple
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,ls.apple.com
+  - DOMAIN-SUFFIX,lcdn-registration.apple.com
+# > Other
   - DOMAIN-KEYWORD,.cn
   - DOMAIN-SUFFIX,flyert.com
   - DOMAIN-SUFFIX,api.map.baidu.com
   - DOMAIN-SUFFIX,oyunfor.com
-  - DOMAIN-SUFFIX,amazon.cn
   - DOMAIN-SUFFIX,inference.location.live.net
-  - DOMAIN-SUFFIX,microsoft.com
-  - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,maps.googleapis.com
   - DOMAIN-SUFFIX,linode.com
   - DOMAIN-SUFFIX,shuncs.com
@@ -16,23 +28,17 @@ payload:
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,wise.com
-  - DOMAIN-SUFFIX,apple.com
-  - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,icloud-content.com
-  - DOMAIN-SUFFIX,lcdn-registration.apple.com
   - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,ls.apple.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,goodread.com
   - DOMAIN-SUFFIX,ykimg.com
   - DOMAIN-SUFFIX,clashroyaleapp.com
-  - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,tinder.com
   - DOMAIN-SUFFIX,gotinder.com
   - DOMAIN-SUFFIX,tindersparks.com  
   - DOMAIN,injections.adguard.org
   - DOMAIN,local.adguard.org  
-  - DOMAIN-SUFFIX,local  
+  - DOMAIN-SUFFIX,local
   - IP-CIDR,192.168.0.0/16
   - IP-CIDR,10.0.0.0/8
   - IP-CIDR,127.0.0.0/8
@@ -41,4 +47,4 @@ payload:
   - IP-CIDR,17.0.0.0/8
   - IP-CIDR,100.64.0.0/10
   - IP-CIDR,224.0.0.0/4
-  - IP-CIDR6,fe80::/10  
+  - IP-CIDR6,fe80::/10
