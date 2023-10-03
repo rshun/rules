@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,gvt0.com
   - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,gvt2.com
   - DOMAIN-SUFFIX,gvt3.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-KEYWORD,google
@@ -14,6 +15,7 @@ payload:
   - DOMAIN-KEYWORD,googleapis
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,urbanairship.com 
   - IP-CIDR,35.190.247.0/24
   - IP-CIDR,64.233.160.0/19
   - IP-CIDR,66.102.0.0/20
@@ -68,5 +70,4 @@ payload:
   - DOMAIN-SUFFIX,spoti.fi
 # > Other
   - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,kraken
