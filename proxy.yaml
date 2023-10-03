@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,wsj.net    
   - DOMAIN-SUFFIX,dowjones.io
 # > Other
+  - DOMAIN-SUFFIX,ft.com
   - DOMAIN-SUFFIX,libzip.org
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,chinadigitaltimes.net
@@ -110,8 +111,6 @@ payload:
   - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,haiwaikan.com
   - DOMAIN-SUFFIX,hntwqc.net
-  - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,gvt2.com
   - IP-CIDR, 31.13.67.0/24
   - IP-CIDR, 74.86.118.0/24
   - IP-CIDR, 95.217.0.0/16
