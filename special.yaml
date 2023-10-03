@@ -70,5 +70,4 @@ payload:
   - DOMAIN-SUFFIX,spoti.fi
 # > Other
   - DOMAIN-KEYWORD,paypal
-  - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,kraken
