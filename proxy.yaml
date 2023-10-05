@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-KEYWORD,amazonaws
 # >News
+  - DOMAIN-SUFFIX,dailymail.co.uk
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,dw.com
