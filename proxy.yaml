@@ -51,7 +51,6 @@ payload:
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-KEYWORD,amazonaws
 # >News
-  - DOMAIN-SUFFIX,dailymail.co.uk
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,dw.com
@@ -108,9 +107,6 @@ payload:
   - DOMAIN-KEYWORD,wikipedia
   - DOMAIN-KEYWORD,quora
   - DOMAIN-KEYWORD,azure-
-  - DOMAIN-SUFFIX,xiaoheimi.net
-  - DOMAIN-SUFFIX,pgw-cld-ml.alicdn
-  - DOMAIN-SUFFIX,haiwaikan.com
   - IP-CIDR, 31.13.67.0/24
   - IP-CIDR, 74.86.118.0/24
   - IP-CIDR, 95.217.0.0/16
