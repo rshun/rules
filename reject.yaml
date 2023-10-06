@@ -263,30 +263,16 @@ payload:
   - DOMAIN,pingma.qq.com
   - DOMAIN,tajs.qq.com  
   - DOMAIN-SUFFIX,ad.mi.com
+  - DOMAIN-SUFFIX,ad.xiaomi.com
+  - DOMAIN-SUFFIX,pandora.xiaomi.com
+  - DOMAIN-SUFFIX,pandora.mi.com
   - DOMAIN-SUFFIX,adv.sec.miui.com
   - DOMAIN-SUFFIX,api.e.mi.com
   - DOMAIN-SUFFIX,mivideo.g.mi.com
-  - DOMAIN-SUFFIX,gallery.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,api.ad.xiaomi.com
-  - DOMAIN-SUFFIX,cdn.ad.xiaomi.com
   - DOMAIN-SUFFIX,data.mistat.xiaomi.com
-  - DOMAIN-SUFFIX,e.ad.xiaomi.com
-  - DOMAIN-SUFFIX,log.ad.xiaomi.com
   - DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
-  - DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
-  - DOMAIN-SUFFIX,stat.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,test.ad.xiaomi.com
-  - DOMAIN-SUFFIX,test.e.ad.xiaomi.com
-  - DOMAIN-SUFFIX,test.zeus.ad.xiaomi.com
-  - DOMAIN-SUFFIX,zeus.ad.xiaomi.com
-  - DOMAIN-SUFFIX,wtradv.market.xiaomi.com
-  - DOMAIN-SUFFIX,bss.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,de.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,starfish.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,mishop.pandora.xiaomi.com
-  - DOMAIN-SUFFIX,upgrade.mishop.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,register.xmpush.xiaomi.com
+  - DOMAIN-SUFFIX,market.xiaomi.com
   - DOMAIN-SUFFIX,deweys.com
   - DOMAIN-SUFFIX,8amgolf.com
   - DOMAIN-SUFFIX,mccourtfoundation.org
@@ -296,6 +282,21 @@ payload:
   - DOMAIN-SUFFIX,howyoubrewin.com
   - DOMAIN-SUFFIX,graymarketdesign.com
   - DOMAIN-SUFFIX,sognotoscano.com
+# 2023.10.04
+  - DOMAIN-SUFFIX,auth.api.gitv.tv
+  - DOMAIN-SUFFIX,metok.sys.miui.com
+  - DOMAIN-SUFFIX,tracking.miui.com
+  - DOMAIN-SUFFIX,resolver.msg.xiaomi.net
+  - DOMAIN-SUFFIX,ptmi.gitv.tv
+  - DOMAIN-SUFFIX,coml7.pandora.xiaomi.com
+  - DOMAIN-SUFFIX,tv.mi.com
+  - DOMAIN-SUFFIX,input.shouji.sogou.com
+  - DOMAIN-SUFFIX,bv.brg0.com
+  - DOMAIN-SUFFIX,ccc.sys.miui.com
+  - DOMAIN-SUFFIX,hpplay.cn
+  - DOMAIN-SUFFIX,ksyuncdn.com
+  - DOMAIN-SUFFIX,mitvos.com
+  - DOMAIN-SUFFIX,io.mi.com
   - IP-CIDR,221.179.140.0/24
   - IP-CIDR,198.18.1.0/24
   - IP-CIDR,198.18.0.0/24
