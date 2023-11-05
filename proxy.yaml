@@ -1,33 +1,4 @@
 payload:
-# >Facebook
-  - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,fb.com
-  - DOMAIN-SUFFIX,fb.me
-  - DOMAIN-SUFFIX,fbaddins.com
-  - DOMAIN-SUFFIX,fbcdn.net
-  - DOMAIN-SUFFIX,fbsbx.com
-  - DOMAIN-SUFFIX,fbworkmail.com
-  - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,m.me
-  - DOMAIN-SUFFIX,messenger.com
-  - DOMAIN-SUFFIX,oculus.com
-  - DOMAIN-SUFFIX,oculuscdn.com
-  - DOMAIN-SUFFIX,rocksdb.org
-  - DOMAIN-SUFFIX,whatsapp.com
-  - DOMAIN-SUFFIX,whatsapp.net
-  - DOMAIN-KEYWORD,facebook
-  - DOMAIN-SUFFIX,threads.net
-  - IP-CIDR,31.13.24.0/21
-  - IP-CIDR,45.64.40.0/22
-  - IP-CIDR,66.220.144.0/20
-  - IP-CIDR,69.171.224.0/19
-  - IP-CIDR,74.119.76.0/22
-  - IP-CIDR,103.4.96.0/22
-  - IP-CIDR,129.134.0.0/17
-  - IP-CIDR,173.252.96.0/19
-  - IP-CIDR,179.60.192.0/22
-  - IP-CIDR,185.60.216.0/22
-  - IP-CIDR,204.15.20.0/22
 # > Netflix
   - DOMAIN-SUFFIX,netflix.com
   - DOMAIN-SUFFIX,netflix.net
@@ -106,6 +77,7 @@ payload:
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,evernote.com
+  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,msftconnecttest.com
@@ -114,7 +86,6 @@ payload:
   - DOMAIN-SUFFIX,vol.moe
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,inoreader.com
-  - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,tripadvisor.com  
   - DOMAIN-SUFFIX,getpocket.com
