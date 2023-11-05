@@ -68,6 +68,7 @@ payload:
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-KEYWORD,reuters
 # > Other
+  - DOMAIN-SUFFIX,archive.org
   - DOMAIN-KEYWORD,github
   - DOMAIN-SUFFIX,libzip.org
   - DOMAIN-SUFFIX,wikimedia.org
