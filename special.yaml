@@ -59,10 +59,6 @@ payload:
 # > Steam
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
-# > Spotify
-  - DOMAIN-KEYWORD,spotify
-  - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,spoti.fi
 # > Other
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken

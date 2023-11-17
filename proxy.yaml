@@ -34,14 +34,14 @@ payload:
   - IP-CIDR,91.108.4.0/22
   - IP-CIDR,91.108.8.0/22
   - IP-CIDR,91.108.12.0/22
-  - IP-CIDR,91.108.16.0/22  
-  - IP-CIDR,91.108.56.0/22  
-  - IP-CIDR,109.239.140.0/24  
-  - IP-CIDR,149.154.160.0/20  
-  - IP-CIDR,205.172.60.0/22  
-# >Wsj                       
-  - DOMAIN-SUFFIX,wsj.com    
-  - DOMAIN-SUFFIX,wsj.net    
+  - IP-CIDR,91.108.16.0/22
+  - IP-CIDR,91.108.56.0/22
+  - IP-CIDR,109.239.140.0/24
+  - IP-CIDR,149.154.160.0/20
+  - IP-CIDR,205.172.60.0/22
+# >Wsj
+  - DOMAIN-SUFFIX,wsj.com
+  - DOMAIN-SUFFIX,wsj.net
   - DOMAIN-SUFFIX,dowjones.io
 # >ft
   - DOMAIN-KEYWORD,ftchinese
@@ -88,7 +88,7 @@ payload:
   - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,bit.ly
-  - DOMAIN-SUFFIX,tripadvisor.com  
+  - DOMAIN-SUFFIX,tripadvisor.com
   - DOMAIN-SUFFIX,getpocket.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,zoho.com
@@ -113,7 +113,7 @@ payload:
   - IP-CIDR, 31.13.67.0/24
   - IP-CIDR, 74.86.118.0/24
   - IP-CIDR, 95.217.0.0/16
-  - IP-CIDR, 108.160.170.0/24  
+  - IP-CIDR, 108.160.170.0/24
   - IP-CIDR, 142.250.0.0/16
   - IP-CIDR, 142.251.0.0/16
   - IP-CIDR, 144.76.0.0/24
