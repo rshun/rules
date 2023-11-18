@@ -85,7 +85,6 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,vol.moe
-  - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,tripadvisor.com
@@ -95,6 +94,7 @@ payload:
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,e-resident.gov.ee
+  - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-KEYWORD,linkedin
   - DOMAIN-KEYWORD,justmysock
   - DOMAIN-KEYWORD,airbnb
