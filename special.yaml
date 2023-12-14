@@ -61,6 +61,9 @@ payload:
 # > Steam
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
+# > Reddit
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditstatic.com  
 # > Other
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken
