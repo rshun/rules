@@ -67,6 +67,9 @@ payload:
   - DOMAIN-SUFFIX,voachinese.com
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-KEYWORD,reuters
+# > Reddit
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditstatic.com
 # > Other
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-KEYWORD,github
