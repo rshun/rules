@@ -1,0 +1,4 @@
+payload:
+# > Reddit
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,redditstatic.com
