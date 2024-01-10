@@ -61,6 +61,12 @@ payload:
 # > Steam
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
+# > Microsoft
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-KEYWORD,azure-
 # > Other
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken

@@ -78,10 +78,6 @@ payload:
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,evernote.com
-  - DOMAIN-SUFFIX,live.com
-  - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,xbox.com
-  - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,vol.moe
@@ -107,7 +103,6 @@ payload:
   - DOMAIN-KEYWORD,rarbgprx
   - DOMAIN-KEYWORD,wikipedia
   - DOMAIN-KEYWORD,quora
-  - DOMAIN-KEYWORD,azure-
   - IP-CIDR, 31.13.67.0/24
   - IP-CIDR, 74.86.118.0/24
   - IP-CIDR, 95.217.0.0/16
