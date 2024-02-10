@@ -66,9 +66,10 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-KEYWORD,linkedin
   - DOMAIN-KEYWORD,azure-
 # > Other
   - DOMAIN-SUFFIX,iyzico.com
+  - DOMAIN-SUFFIX,ozan.com
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken
-  - DOMAIN-KEYWORD,linkedin
