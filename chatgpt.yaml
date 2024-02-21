@@ -6,5 +6,7 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
 # > Claude
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
 # > POE
   - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,quora.com
