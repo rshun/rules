@@ -91,6 +91,7 @@ payload:
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,e-resident.gov.ee
   - DOMAIN-SUFFIX,getoutline.org
+  - DOMAIN-SUFFIX,klook.com
   - DOMAIN-KEYWORD,justmysock
   - DOMAIN-KEYWORD,airbnb
   - DOMAIN-KEYWORD,medium
