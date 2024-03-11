@@ -10,3 +10,4 @@ payload:
 # > POE
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,poecdn.net
