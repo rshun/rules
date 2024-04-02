@@ -29,6 +29,7 @@ payload:
   - IP-CIDR,173.194.0.0/16
   - IP-CIDR,209.85.128.0/17
   - IP-CIDR,216.58.192.0/19
+  - IP-CIDR,216.239.32.0/19
 # > Spotify
   - DOMAIN-KEYWORD,spotify
   - DOMAIN-SUFFIX,scdn.co
