@@ -88,7 +88,6 @@ payload:
   - DOMAIN-SUFFIX,tripadvisor.com
   - DOMAIN-SUFFIX,getpocket.com
   - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,zoho.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,e-resident.gov.ee

@@ -75,3 +75,4 @@ payload:
 # > Other
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken
+  - DOMAIN-KEYWORD,zoho
