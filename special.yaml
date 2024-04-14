@@ -76,3 +76,4 @@ payload:
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken
   - DOMAIN-KEYWORD,zoho
+  - DOMAIN-SUFFIX,rust-lang.org
