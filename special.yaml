@@ -18,18 +18,18 @@ payload:
   # - DOMAIN-KEYWORD,gmail
   # - DOMAIN-SUFFIX,youtu.be
   # - DOMAIN-SUFFIX,urbanairship.com 
-  # - IP-CIDR,35.190.247.0/24
-  # - IP-CIDR,64.233.160.0/19
-  # - IP-CIDR,66.102.0.0/20
-  # - IP-CIDR,66.249.80.0/20
-  # - IP-CIDR,72.14.192.0/18
-  # - IP-CIDR,74.125.0.0/16
-  # - IP-CIDR,108.177.8.0/21
-  # - IP-CIDR,172.217.0.0/16
-  # - IP-CIDR,173.194.0.0/16
-  # - IP-CIDR,209.85.128.0/17
-  # - IP-CIDR,216.58.192.0/19
-  # - IP-CIDR,216.239.32.0/19
+  # - IP-CIDR,35.190.247.0/24,no-resolve
+  # - IP-CIDR,64.233.160.0/19,no-resolve
+  # - IP-CIDR,66.102.0.0/20,no-resolve
+  # - IP-CIDR,66.249.80.0/20,no-resolve
+  # - IP-CIDR,72.14.192.0/18,no-resolve
+  # - IP-CIDR,74.125.0.0/16,no-resolve
+  # - IP-CIDR,108.177.8.0/21,no-resolve
+  # - IP-CIDR,172.217.0.0/16,no-resolve
+  # - IP-CIDR,173.194.0.0/16,no-resolve
+  # - IP-CIDR,209.85.128.0/17,no-resolve
+  # - IP-CIDR,216.58.192.0/19,no-resolve
+  # - IP-CIDR,216.239.32.0/19,no-resolve
 # >Facebook
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,fb.com
@@ -48,20 +48,20 @@ payload:
   - DOMAIN-SUFFIX,whatsapp.net
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-SUFFIX,threads.net
-  - IP-CIDR,31.13.24.0/21
-  - IP-CIDR,45.64.40.0/22
-  - IP-CIDR,66.220.144.0/20
-  - IP-CIDR,69.63.176.0/20
-  - IP-CIDR,69.171.224.0/19
-  - IP-CIDR,74.119.76.0/22
-  - IP-CIDR,103.4.96.0/22
-  - IP-CIDR,129.134.0.0/17
-  - IP-CIDR,157.240.0.0/17
-  - IP-CIDR,173.252.64.0/19
-  - IP-CIDR,173.252.96.0/19
-  - IP-CIDR,179.60.192.0/22
-  - IP-CIDR,185.60.216.0/22
-  - IP-CIDR,204.15.20.0/22
+  - IP-CIDR,31.13.24.0/21,no-resolve
+  - IP-CIDR,45.64.40.0/22,no-resolve
+  - IP-CIDR,66.220.144.0/20,no-resolve
+  - IP-CIDR,69.63.176.0/20,no-resolve
+  - IP-CIDR,69.171.224.0/19,no-resolve
+  - IP-CIDR,74.119.76.0/22,no-resolve
+  - IP-CIDR,103.4.96.0/22,no-resolve
+  - IP-CIDR,129.134.0.0/17,no-resolve
+  - IP-CIDR,157.240.0.0/17,no-resolve
+  - IP-CIDR,173.252.64.0/19,no-resolve
+  - IP-CIDR,173.252.96.0/19,no-resolve
+  - IP-CIDR,179.60.192.0/22,no-resolve
+  - IP-CIDR,185.60.216.0/22,no-resolve
+  - IP-CIDR,204.15.20.0/22,no-resolve
 # > Steam
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com

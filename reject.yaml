@@ -297,7 +297,5 @@ payload:
   - DOMAIN-SUFFIX,ksyuncdn.com
   - DOMAIN-SUFFIX,mitvos.com
   - DOMAIN-SUFFIX,io.mi.com
-  - IP-CIDR,221.179.140.0/24
-  - IP-CIDR,198.18.1.0/24
-  - IP-CIDR,198.18.0.0/24
-  - IP-CIDR,60.210.17.12/24
+  - IP-CIDR,221.179.140.0/24,no-resolve
+  - IP-CIDR,60.210.17.12/24,no-resolve
