@@ -37,3 +37,5 @@ payload:
 # > Reddit
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,redditstatic.com
+# > Other
+  - DOMAIN-SUFFIX,iyzico.com
