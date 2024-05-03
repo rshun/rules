@@ -21,7 +21,6 @@ payload:
   - DOMAIN-SUFFIX,maps.googleapis.com
   - DOMAIN-SUFFIX,linode.com
   - DOMAIN-SUFFIX,shuncs.com
-  - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,weather.com
   - DOMAIN-SUFFIX,goodread.com
   - DOMAIN-SUFFIX,ykimg.com
