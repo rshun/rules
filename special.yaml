@@ -72,6 +72,8 @@ payload:
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-KEYWORD,linkedin
   - DOMAIN-KEYWORD,azure-
+# > tiktok
+  - DOMAIN-KEYWORD,tiktok
 # > Other
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken
