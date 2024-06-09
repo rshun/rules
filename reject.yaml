@@ -299,3 +299,9 @@ payload:
   - DOMAIN-SUFFIX,io.mi.com
   - IP-CIDR,221.179.140.0/24,no-resolve
   - IP-CIDR,60.210.17.12/24,no-resolve
+# 2024.06.09
+  - DOMAIN-SUFFIX,demdex.net
+  - DOMAIN-SUFFIX,cloud.adobe.io
+  - DOMAIN-SUFFIX,fwpixel.com
+  - DOMAIN-SUFFIX,scorecardresearch.com
+  - DOMAIN-SUFFIX,adobedtm.com
