@@ -69,6 +69,7 @@ payload:
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-KEYWORD,reuters
 # > Other
+  - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,hk01.com
   - DOMAIN-SUFFIX,free.com.tw
   - DOMAIN-SUFFIX,binance.com
