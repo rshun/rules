@@ -126,3 +126,5 @@ payload:
   - IP-CIDR, 204.13.164.118/32,no-resolve
   - IP-CIDR, 49.12.230.234/32,no-resolve
   - IP-CIDR, 144.76.175.205/32,no-resolve
+# >2024.06.29
+  - DOMAIN-SUFFIX,sagernet.org
