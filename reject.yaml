@@ -306,4 +306,4 @@ payload:
   - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,adobedtm.com
 # 2024.06.19
-    - DOMAIN-SUFFIX,jpush-ipv6.cn
+  - DOMAIN-SUFFIX,jpush-ipv6.cn
