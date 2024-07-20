@@ -13,5 +13,3 @@ payload:
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,quoracdn.net
   - DOMAIN-SUFFIX,poecdn.net
-# > perplexity
-  - DOMAIN-SUFFIX,perplexity.ai
