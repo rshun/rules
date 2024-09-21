@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,tinder.com
   - DOMAIN-SUFFIX,gotinder.com
   - DOMAIN-SUFFIX,tindersparks.com
+  - DOMAIN-SUFFIX,cathaypacific.com
   - DOMAIN,injections.adguard.org
   - DOMAIN,local.adguard.org
   - DOMAIN-SUFFIX,local
