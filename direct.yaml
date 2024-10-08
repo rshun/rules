@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,lcdn-registration.apple.com
 # > Other
   - DOMAIN-KEYWORD,.cn
+  - DOMAIN-SUFFIX,yingshi.tv
   - DOMAIN-SUFFIX,flyert.com
   - DOMAIN-SUFFIX,oyunfor.com
   - DOMAIN-SUFFIX,inference.location.live.net
