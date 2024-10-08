@@ -85,5 +85,6 @@ payload:
   - DOMAIN-KEYWORD,zoho
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,wise.com
+  - DOMAIN-SUFFIX,yfsp.tv
 # > perplexity
   - DOMAIN-SUFFIX,perplexity.ai
