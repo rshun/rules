@@ -131,3 +131,6 @@ payload:
   - DOMAIN-SUFFIX,sagernet.org
 # > 2024.07.25
   - DOMAIN-SUFFIX,workers.dev
+# > 2024.11.14
+  - DOMAIN-SUFFIX,follow.it
+
