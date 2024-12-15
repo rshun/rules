@@ -17,3 +17,5 @@ payload:
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,quoracdn.net
   - DOMAIN-SUFFIX,poecdn.net
+# > Midjourney
+  - DOMAIN-SUFFIX,midjourney.com
