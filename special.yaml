@@ -91,5 +91,4 @@ payload:
 # > facerecogition
   - DOMAIN-SUFFIX,huggingface.co
 # > yingshi
-  - DOMAIN-SUFFIX,yingshi.tv
   - DOMAIN-SUFFIX,hlive.io
