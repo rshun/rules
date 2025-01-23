@@ -86,6 +86,8 @@ payload:
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,yfsp.tv
+  - DOMAIN-SUFFIX,anygate.vip
+  - DOMAIN-SUFFIX,pipecdn.vip
 # > perplexity
   - DOMAIN-SUFFIX,perplexity.ai
 # > facerecogition
@@ -94,3 +96,4 @@ payload:
   - DOMAIN-SUFFIX,hlive.io
   - DOMAIN-SUFFIX,3qi.live
   - DOMAIN-SUFFIX,yingshi.tv
+  - DOMAIN-SUFFIX,ziqoixtv.com
