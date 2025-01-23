@@ -58,6 +58,8 @@ payload:
   - IP-CIDR,103.4.96.0/22,no-resolve
   - IP-CIDR,129.134.0.0/17,no-resolve
   - IP-CIDR,157.240.0.0/17,no-resolve
+  - IP-CIDR,172.64.147.0/22,no-resolve
+  - IP-CIDR,172.64.154.0/22,no-resolve
   - IP-CIDR,173.252.64.0/19,no-resolve
   - IP-CIDR,173.252.96.0/19,no-resolve
   - IP-CIDR,179.60.192.0/22,no-resolve
@@ -97,3 +99,4 @@ payload:
   - DOMAIN-SUFFIX,3qi.live
   - DOMAIN-SUFFIX,yingshi.tv
   - DOMAIN-SUFFIX,ziqoixtv.com
+  
