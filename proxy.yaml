@@ -138,3 +138,7 @@ payload:
 # > 2025.02.15
   - DOMAIN-SUFFIX,broadcom.com
   - DOMAIN-SUFFIX,ahhhhfs.com
+# > 2025.02.24
+  - DOMAIN-SUFFIX,tavily.com
+# > 2025.02.27
+  - DOMAIN-SUFFIX,x.ai
