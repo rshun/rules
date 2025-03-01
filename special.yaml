@@ -102,3 +102,6 @@ payload:
   - DOMAIN-SUFFIX,3qi.live
   - DOMAIN-SUFFIX,yingshi.tv
   - DOMAIN-SUFFIX,ziqoixtv.com
+# > 2025.03.01
+  - DOMAIN-SUFFIX,zxzj.site
+
