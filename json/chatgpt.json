@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "openai.com",
+                "chatgpt.com",
+                "sentry.io",
+                "oaistatic.com",
+                "oaiusercontent.com",
+                "claude.ai",
+                "anthropic.com",
+                "poe.com",
+                "quora.com",
+                "quoracdn.net",
+                "poecdn.net",
+                "chat.com",
+                "ai.com"
+            ]
+        }
+    ]
+}

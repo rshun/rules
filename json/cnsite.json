@@ -1,0 +1,39 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_keyword": [
+                "officecdn",
+                "baidu",
+                ".cn"
+            ],
+            "domain_suffix": [
+                "microsoft.com",
+                "dongqiudi.com",
+                "windows.net",
+                "sfx.ms",
+                "sharepoint.com",
+                "office365.com",
+                "outlook.com",
+                "apple.com",
+                "icloud.com",
+                "icloud-content.com",
+                "ls.apple.com",
+                "lcdn-registration.apple.com",
+                "flyert.com",
+                "oyunfor.com",
+                "inference.location.live.net",
+                "maps.googleapis.com",
+                "linode.com",
+                "shuncs.com",
+                "weather.com",
+                "goodread.com",
+                "ykimg.com",
+                "tinder.com",
+                "gotinder.com",
+                "tindersparks.com",
+                "cathaypacific.com"
+            ]
+        }
+    ]
+}
