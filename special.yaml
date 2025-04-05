@@ -104,3 +104,4 @@ payload:
   - DOMAIN-SUFFIX,ziqoixtv.com
 # > debian
   - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,jellyfin.org
