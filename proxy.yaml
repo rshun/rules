@@ -79,8 +79,6 @@ payload:
   - DOMAIN-SUFFIX,libzip.org
   - DOMAIN-SUFFIX,wikimedia.org
   - DOMAIN-SUFFIX,chinadigitaltimes.net
-  - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,booksc.eu
   - DOMAIN-SUFFIX,thetvdb.com
   - DOMAIN-SUFFIX,discord.com

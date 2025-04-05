@@ -66,6 +66,7 @@ payload:
   - IP-CIDR,173.252.96.0/24,no-resolve
   - IP-CIDR,179.60.192.0/22,no-resolve
   - IP-CIDR,185.60.216.0/24,no-resolve
+  - IP-CIDR,185.199.110.0/24,no-resolve
   - IP-CIDR,185.199.109.0/24,no-resolve
   - IP-CIDR,204.15.20.0/24,no-resolve
 # > Steam
@@ -105,3 +106,5 @@ payload:
 # > debian
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,jellyfin.org
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
