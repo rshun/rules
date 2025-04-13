@@ -81,7 +81,7 @@ payload:
   - DOMAIN-SUFFIX,chinadigitaltimes.net
   - DOMAIN-SUFFIX,booksc.eu
   - DOMAIN-SUFFIX,thetvdb.com
-  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-KEYWORD,discord
   - DOMAIN-SUFFIX,evernote.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,pinterest.com
