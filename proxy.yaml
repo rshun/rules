@@ -142,3 +142,5 @@ payload:
   - DOMAIN-SUFFIX,x.ai
 # > 2025.03.09
   - DOMAIN-SUFFIX,gotinder.com
+# > 2025.04.18
+  - DOMAIN-SUFFIX,asuswrt-merlin.net

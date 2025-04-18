@@ -103,8 +103,13 @@ payload:
   - DOMAIN-SUFFIX,3qi.live
   - DOMAIN-SUFFIX,yingshi.tv
   - DOMAIN-SUFFIX,ziqoixtv.com
+# > docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - IP-CIDR,69.197.153.0/24,no-resolve
 # > debian
   - DOMAIN-SUFFIX,debian.org
   - DOMAIN-SUFFIX,jellyfin.org
-  - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,docker.io
+# > pip
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,pypi.org
