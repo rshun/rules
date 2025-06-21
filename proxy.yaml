@@ -148,3 +148,6 @@ payload:
   - DOMAIN-SUFFIX,filestash.app
 # > 2025.06.14
   - DOMAIN-SUFFIX,museodelprado.es
+# > 2025.06.21
+  - DOMAIN-SUFFIX,agoda.com
+  - DOMAIN-SUFFIX,cathaypacific.com
