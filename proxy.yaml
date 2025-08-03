@@ -152,3 +152,5 @@ payload:
   - DOMAIN-SUFFIX,agoda.com
   - DOMAIN-SUFFIX,cathaypacific.com
   - DOMAIN-SUFFIX,vueling.com
+# > 2025.08.04
+  - DOMAIN-SUFFIX,voanews.com
