@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "rust-lang.org",
+                "wise.com",
+                "yfsp.tv",
+                "anygate.vip",
+                "pipecdn.vip",
+                "perplexity.ai",
+                "huggingface.co",
+                "hlive.io",
+                "3qi.live",
+                "yingshi.tv",
+                "ziqoixtv.com"
+            ],
+            "domain_keyword": [
+                "paypal",
+                "kraken",
+                "zoho"
+            ],
+            "ip_cidr": []
+        }
+    ]
+}

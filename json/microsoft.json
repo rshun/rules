@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "live.com",
+                "bing.com",
+                "xbox.com",
+                "msftconnecttest.com"
+            ],
+            "domain_keyword": [
+                "linkedin",
+                "azure-"
+            ],
+            "ip_cidr": []
+        }
+    ]
+}
