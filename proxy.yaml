@@ -68,6 +68,19 @@ payload:
   - DOMAIN-SUFFIX,voachinese.com
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-KEYWORD,reuters
+# > Steam
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamcommunity.com
+# > docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - IP-CIDR,69.197.153.0/24,no-resolve
+# > debian
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,jellyfin.org
+# > pip
+  - DOMAIN-SUFFIX,pythonhosted.org
+  - DOMAIN-SUFFIX,pypi.org
 # > Other
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,gitlab.com
@@ -89,10 +102,8 @@ payload:
   - DOMAIN-SUFFIX,inoreader.com
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,tripadvisor.com
-  - DOMAIN-SUFFIX,getpocket.com
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,redd.it
   - DOMAIN-SUFFIX,e-resident.gov.ee
   - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,klook.com

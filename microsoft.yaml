@@ -1,0 +1,8 @@
+payload:
+# > Microsoft
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-KEYWORD,linkedin
+  - DOMAIN-KEYWORD,azure-
