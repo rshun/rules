@@ -309,3 +309,6 @@ payload:
   - DOMAIN-SUFFIX,jpush-ipv6.cn
 # 2024.09.21
   - DOMAIN-SUFFIX,csdn.net
+# 2024.09.21
+  - DOMAIN-SUFFIX,appsflyersdk.com
+  
