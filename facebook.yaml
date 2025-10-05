@@ -17,10 +17,12 @@ payload:
   - DOMAIN-KEYWORD,whatsapp  
   - IP-CIDR,31.13.24.0/24,no-resolve
   - IP-CIDR,45.64.40.0/24,no-resolve
+  - IP-CIDR,57.144.220.0/24,no-resolve
   - IP-CIDR,66.220.144.0/24,no-resolve
   - IP-CIDR,69.63.176.0/24,no-resolve
   - IP-CIDR,69.171.224.0/24,no-resolve
   - IP-CIDR,74.119.76.0/24,no-resolve
+  - IP-CIDR,101.227.132.0/24,no-resolve
   - IP-CIDR,103.4.96.0/24,no-resolve
   - IP-CIDR,104.18.40.0/24,no-resolve
   - IP-CIDR,129.134.0.0/16,no-resolve
