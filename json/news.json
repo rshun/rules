@@ -1,0 +1,33 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "wsj.com",
+                "wsj.net",
+                "dowjones.io",
+                "ft.com",
+                "nikkei.com",
+                "bbc.com",
+                "bbc.co.uk",
+                "bbci.co.uk",
+                "dw.com",
+                "cnn.com",
+                "rfi.fr",
+                "nyt.com",
+                "voanews.com",
+                "voachinese.com",
+                "theinitium.com"
+            ],
+            "domain_keyword": [
+                "ftchinese",
+                "barrons",
+                "bloomberg",
+                "washingtonpost",
+                "economist",
+                "nytimes",
+                "reuters"
+            ]
+        }
+    ]
+}

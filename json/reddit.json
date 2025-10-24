@@ -4,10 +4,9 @@
         {
             "domain_suffix": [
                 "reddit.com",
-                "redd.it",
+                "redditstatic.com",
                 "redditmedia.com",
-                "redditspace.com",
-                "redditstatic.com"
+                "redd.it"
             ]
         }
     ]

@@ -5,17 +5,21 @@
             "domain_suffix": [
                 "openai.com",
                 "chatgpt.com",
+                "chat.com",
+                "ai.com",
                 "sentry.io",
                 "oaistatic.com",
                 "oaiusercontent.com",
+                "sora.com",
                 "claude.ai",
                 "anthropic.com",
+                "claudeusercontent.com",
                 "poe.com",
                 "quora.com",
                 "quoracdn.net",
                 "poecdn.net",
-                "chat.com",
-                "ai.com"
+                "midjourney.com",
+                "gpt4all.io"
             ]
         }
     ]

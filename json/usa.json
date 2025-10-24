@@ -13,14 +13,15 @@
                 "hlive.io",
                 "3qi.live",
                 "yingshi.tv",
+                "iyf.tv",
+                "gitv.tv",
                 "ziqoixtv.com"
             ],
             "domain_keyword": [
                 "paypal",
                 "kraken",
                 "zoho"
-            ],
-            "ip_cidr": []
+            ]
         }
     ]
 }

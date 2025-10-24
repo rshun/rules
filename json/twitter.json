@@ -2,21 +2,24 @@
     "version": 1,
     "rules": [
         {
-            "domain": [],
             "domain_suffix": [
                 "t.co",
                 "twimg.co",
                 "twimg.com",
                 "x.com",
                 "twitpic.com",
-                "vine.co"
+                "vine.co",
+                "pscp.tv",
+                "periscope.tv"
             ],
             "domain_keyword": [
                 "twitter"
             ],
             "ip_cidr": [
+                "28.242.245.0/24",
                 "69.195.160.0/19",
                 "104.244.42.0/21",
+                "173.252.108.0/24",
                 "192.133.76.0/22",
                 "199.16.156.0/22",
                 "199.59.148.0/22",

@@ -1,0 +1,48 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain_suffix": [
+                "microsoft.com",
+                "windows.net",
+                "sfx.ms",
+                "sharepoint.com",
+                "office365.com",
+                "outlook.com",
+                "apple.com",
+                "icloud.com",
+                "icloud-content.com",
+                "ls.apple.com",
+                "lcdn-registration.apple.com",
+                "yingshi.tv",
+                "flyert.com",
+                "oyunfor.com",
+                "inference.location.live.net",
+                "maps.googleapis.com",
+                "linode.com",
+                "shuncs.com",
+                "weather.com",
+                "goodread.com",
+                "ykimg.com",
+                "tinder.com",
+                "gotinder.com",
+                "tindersparks.com",
+                "cathaypacific.com"
+            ],
+            "domain_keyword": [
+                "officecdn",
+                ".cn"
+            ],
+            "ip_cidr": [
+                "192.168.0.0/16",
+                "10.0.0.0/8",
+                "127.0.0.0/8",
+                "172.16.0.0/12",
+                "10.0.0.0/8",
+                "17.0.0.0/8",
+                "100.64.0.0/10",
+                "224.0.0.0/4"
+            ]
+        }
+    ]
+}

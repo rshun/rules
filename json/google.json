@@ -2,7 +2,6 @@
     "version": 1,
     "rules": [
         {
-            "domain": [],
             "domain_suffix": [
                 "ytimg.com",
                 "appspot.com",
