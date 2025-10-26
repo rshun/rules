@@ -6,18 +6,22 @@ payload:
 # >ft
   - DOMAIN-KEYWORD,ftchinese
   - DOMAIN-SUFFIX,ft.com
-# >News
-  - DOMAIN-SUFFIX,nikkei.com
+# >Bloomberg
+  - DOMAIN-SUFFIX,bwbx.io
+  - DOMAIN-SUFFIX,bloomberg.com
+  - DOMAIN-KEYWORD,bloomberg
+# >BBC
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbci.co.uk
+# >News
+  - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,dw.com
   - DOMAIN-SUFFIX,cnn.com
   - DOMAIN-SUFFIX,rfi.fr
   - DOMAIN-SUFFIX,nyt.com
   - DOMAIN-SUFFIX,voanews.com
   - DOMAIN-KEYWORD,barrons
-  - DOMAIN-KEYWORD,bloomberg
   - DOMAIN-KEYWORD,washingtonpost
   - DOMAIN-KEYWORD,economist
   - DOMAIN-KEYWORD,nytimes

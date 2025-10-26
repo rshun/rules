@@ -232,6 +232,8 @@ payload:
   - DOMAIN-SUFFIX,miaozhen.com
   - DOMAIN-SUFFIX,simaba.taobao.com  
   - DOMAIN-SUFFIX,pos.baidu.com
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googlesyndication-cn.com
   - DOMAIN,bam.nr-data.net
   - DOMAIN,counter.kingsoft.com
   - DOMAIN,js-agent.newrelic.com
@@ -250,7 +252,6 @@ payload:
   - DOMAIN,asimgs.pplive.cn
   - DOMAIN,csi.gstatic.com
   - DOMAIN,iadsdk.apple.com
-  - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,mi.gdt.qq.com
   - DOMAIN,dsp.youdao.com
   - DOMAIN,g.163.com
