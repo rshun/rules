@@ -314,3 +314,6 @@ payload:
   - DOMAIN-SUFFIX,appsflyersdk.com
 # 2025.10.18
   - DOMAIN-SUFFIX,crwdcntrl.net
+  - DOMAIN-SUFFIX,googlesyndication.com
+  - DOMAIN-SUFFIX,googlesyndication-cn.com
+  - DOMAIN-SUFFIX,puata.info
