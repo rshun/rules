@@ -20,7 +20,6 @@ payload:
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,hk01.com
-  - DOMAIN-SUFFIX,free.com.tw
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-KEYWORD,github
