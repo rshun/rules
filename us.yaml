@@ -16,7 +16,7 @@ payload:
   - DOMAIN-SUFFIX,chinadigitaltimes.net
   - DOMAIN-SUFFIX,booksc.eu
   - DOMAIN-SUFFIX,thetvdb.com
-  - DOMAIN-KEYWORD,discord
+  - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,evernote.com
   - DOMAIN-SUFFIX,pinterest.com
   - DOMAIN-SUFFIX,vol.moe
@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,cathaypacific.com
   - DOMAIN-SUFFIX,vueling.com
   - DOMAIN-SUFFIX,aritzia.com
+  - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken
   - DOMAIN-KEYWORD,zoho
