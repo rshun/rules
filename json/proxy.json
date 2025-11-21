@@ -13,7 +13,8 @@
                 "tavily.com",
                 "gotinder.com",
                 "filestash.app",
-                "museodelprado.es"
+                "museodelprado.es",
+                "openwrt.org"
             ],
             "ip_cidr": [
                 "31.13.67.0/24",
