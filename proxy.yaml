@@ -1,58 +1,8 @@
 payload:
 # >Amazon
-  - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-SUFFIX,amazon.co.jp
-  - DOMAIN-KEYWORD,amazonaws
-# > Steam
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamcommunity.com
-# > docker
-  - DOMAIN-SUFFIX,docker.com
-  - DOMAIN-SUFFIX,docker.io
-  - IP-CIDR,69.197.153.0/24,no-resolve
-# > debian
-  - DOMAIN-SUFFIX,debian.org
-  - DOMAIN-SUFFIX,jellyfin.org
-# > pip
-  - DOMAIN-SUFFIX,pythonhosted.org
-  - DOMAIN-SUFFIX,pypi.org
 # > Other
-  - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN-SUFFIX,gitlab.com
-  - DOMAIN-SUFFIX,hk01.com
-  - DOMAIN-SUFFIX,binance.com
-  - DOMAIN-SUFFIX,archive.org
-  - DOMAIN-KEYWORD,github
-  - DOMAIN-SUFFIX,libzip.org
-  - DOMAIN-SUFFIX,wikimedia.org
-  - DOMAIN-SUFFIX,chinadigitaltimes.net
-  - DOMAIN-SUFFIX,booksc.eu
-  - DOMAIN-SUFFIX,thetvdb.com
-  - DOMAIN-KEYWORD,discord
-  - DOMAIN-SUFFIX,evernote.com
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,pinterest.com
-  - DOMAIN-SUFFIX,vol.moe
-  - DOMAIN-SUFFIX,inoreader.com
-  - DOMAIN-SUFFIX,bit.ly
-  - DOMAIN-SUFFIX,tripadvisor.com
-  - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,e-resident.gov.ee
-  - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,klook.com
-  - DOMAIN-KEYWORD,justmysock
-  - DOMAIN-KEYWORD,airbnb
-  - DOMAIN-KEYWORD,medium
-  - DOMAIN-KEYWORD,dropbox
-  - DOMAIN-KEYWORD,leetcode
-  - DOMAIN-KEYWORD,imgur
-  - DOMAIN-KEYWORD,tradingview
-  - DOMAIN-KEYWORD,namecheap
-  - DOMAIN-KEYWORD,bandwagonhost
-  - DOMAIN-KEYWORD,rarbgprx
-  - DOMAIN-KEYWORD,wikipedia
-  - DOMAIN-KEYWORD,quora
   - IP-CIDR, 31.13.67.0/24,no-resolve
   - IP-CIDR, 74.86.118.0/24,no-resolve
   - IP-CIDR, 95.217.0.0/16,no-resolve
@@ -84,13 +34,9 @@ payload:
   - DOMAIN-SUFFIX,tavily.com
 # > 2025.03.09
   - DOMAIN-SUFFIX,gotinder.com
-# > 2025.04.18
-  - DOMAIN-SUFFIX,asuswrt-merlin.net
 # > 2025.05.11
   - DOMAIN-SUFFIX,filestash.app
 # > 2025.06.14
   - DOMAIN-SUFFIX,museodelprado.es
-# > 2025.06.21
-  - DOMAIN-SUFFIX,agoda.com
-  - DOMAIN-SUFFIX,cathaypacific.com
-  - DOMAIN-SUFFIX,vueling.com
+
+
