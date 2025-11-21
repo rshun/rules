@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,wsj.com
   - DOMAIN-SUFFIX,wsj.net
   - DOMAIN-SUFFIX,dowjones.io
+  - DOMAIN-SUFFIX,dowjones.com
   - DOMAIN-SUFFIX,dowjoneson.com
 # >ft
   - DOMAIN-KEYWORD,ftchinese
