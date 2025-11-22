@@ -41,3 +41,6 @@ payload:
 # > 2025.11.21
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,akvorado.net
+  - DOMAIN-SUFFIX,gethomepage.dev
+  - DOMAIN-SUFFIX,immich.app
+

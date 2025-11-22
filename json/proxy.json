@@ -15,7 +15,9 @@
                 "filestash.app",
                 "museodelprado.es",
                 "openwrt.org",
-                "akvorado.net"
+                "akvorado.net",
+                "gethomepage.dev",
+                "immich.app"
             ],
             "ip_cidr": [
                 "31.13.67.0/24",
