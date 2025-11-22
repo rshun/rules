@@ -17,7 +17,8 @@
                 "openwrt.org",
                 "akvorado.net",
                 "gethomepage.dev",
-                "immich.app"
+                "immich.app",
+                "dnsleaktest.com"
             ],
             "ip_cidr": [
                 "31.13.67.0/24",

@@ -43,4 +43,4 @@ payload:
   - DOMAIN-SUFFIX,akvorado.net
   - DOMAIN-SUFFIX,gethomepage.dev
   - DOMAIN-SUFFIX,immich.app
-
+  - DOMAIN-SUFFIX,dnsleaktest.com
