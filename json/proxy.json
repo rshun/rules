@@ -18,7 +18,8 @@
                 "akvorado.net",
                 "gethomepage.dev",
                 "immich.app",
-                "dnsleaktest.com"
+                "dnsleaktest.com",
+                "vueling.com"
             ],
             "ip_cidr": [
                 "31.13.67.0/24",
