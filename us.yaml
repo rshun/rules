@@ -24,7 +24,6 @@ payload:
   - DOMAIN-SUFFIX,bit.ly
   - DOMAIN-SUFFIX,tripadvisor.com
   - DOMAIN-SUFFIX,v2ex.com
-  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,e-resident.gov.ee
   - DOMAIN-SUFFIX,getoutline.org
   - DOMAIN-SUFFIX,asuswrt-merlin.net
