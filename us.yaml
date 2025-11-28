@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,agoda.com
   - DOMAIN-SUFFIX,cathaypacific.com
   - DOMAIN-SUFFIX,aritzia.com
+  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-KEYWORD,discord
   - DOMAIN-KEYWORD,paypal
   - DOMAIN-KEYWORD,kraken
