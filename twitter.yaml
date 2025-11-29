@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,vine.co
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,grok.com
   - DOMAIN-KEYWORD,twitter
   - IP-CIDR,28.242.245.0/24,no-resolve
   - IP-CIDR,69.195.160.0/19,no-resolve
