@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbci.co.uk
+  - IP-CIDR,192.133.76.0/22,no-resolve
 # >News
   - DOMAIN-SUFFIX,nikkei.com
   - DOMAIN-SUFFIX,dw.com

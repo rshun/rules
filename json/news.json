@@ -31,6 +31,9 @@
                 "economist",
                 "nytimes",
                 "reuters"
+            ],
+            "ip_cidr": [
+                "192.133.76.0/22"
             ]
         }
     ]
