@@ -77,3 +77,6 @@ payload:
 # > Steam
   - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamcommunity.com
+# > vimeo
+  - DOMAIN-SUFFIX,vimeo.com
+  - DOMAIN-KEYWORD,vimeocdn
