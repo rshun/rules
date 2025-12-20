@@ -19,7 +19,8 @@
                 "gethomepage.dev",
                 "immich.app",
                 "dnsleaktest.com",
-                "vueling.com"
+                "vueling.com",
+                "canva.com"
             ],
             "ip_cidr": [
                 "31.13.67.0/24",

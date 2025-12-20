@@ -2,6 +2,7 @@ payload:
 # > Amazon
   - DOMAIN-SUFFIX,amazon.com
   - DOMAIN-KEYWORD,amazonaws
+  - DOMAIN-KEYWORD,amazon
 # > Other
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,wise.com
