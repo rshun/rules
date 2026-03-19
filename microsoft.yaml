@@ -1,6 +1,7 @@
 payload:
 # > Microsoft
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,msftconnecttest.com
