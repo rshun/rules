@@ -49,4 +49,7 @@ payload:
   - DOMAIN-SUFFIX,canva.com
 # > 2026.01.23
   - DOMAIN-KEYWORD,imgur
-
+# > 2026.05.16
+  - DOMAIN-SUFFIX,funshion.com
+  - DOMAIN-SUFFIX,tripdata.app
+  - IP-CIDR, 123.58.100.0/24,no-resolve
