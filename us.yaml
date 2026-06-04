@@ -9,7 +9,6 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gravatar.com
-  - DOMAIN-SUFFIX,hk01.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,libzip.org
@@ -80,3 +79,7 @@ payload:
 # > vimeo
   - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-KEYWORD,vimeocdn
+# > cloudflare
+  - IP-CIDR,104.18.40.0/24,no-resolve
+  - IP-CIDR,172.64.147.0/24,no-resolve
+  - IP-CIDR, 172.64.154.0/24,no-resolve

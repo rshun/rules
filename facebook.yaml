@@ -25,16 +25,12 @@ payload:
   - IP-CIDR,69.63.176.0/24,no-resolve
   - IP-CIDR,69.171.224.0/24,no-resolve
   - IP-CIDR,74.119.76.0/24,no-resolve
-  - IP-CIDR,101.227.132.0/24,no-resolve
   - IP-CIDR,103.4.96.0/24,no-resolve
-  - IP-CIDR,104.18.40.0/24,no-resolve
   - IP-CIDR,129.134.0.0/16,no-resolve
   - IP-CIDR,157.240.0.0/16,no-resolve
-  - IP-CIDR,172.64.147.0/24,no-resolve
-  - IP-CIDR,172.64.154.0/24,no-resolve
   - IP-CIDR,173.252.64.0/24,no-resolve
   - IP-CIDR,173.252.96.0/24,no-resolve
-  - IP-CIDR,179.60.192.0/22,no-resolve
+  - IP-CIDR,179.60.192.0/24,no-resolve
   - IP-CIDR,185.60.216.0/24,no-resolve
   - IP-CIDR,185.199.110.0/24,no-resolve
   - IP-CIDR,185.199.109.0/24,no-resolve

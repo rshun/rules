@@ -9,7 +9,6 @@
                 "cloudflare.com",
                 "gitlab.com",
                 "gravatar.com",
-                "hk01.com",
                 "binance.com",
                 "archive.org",
                 "libzip.org",
@@ -76,7 +75,10 @@
                 "vimeocdn"
             ],
             "ip_cidr": [
-                "69.197.153.0/24"
+                "69.197.153.0/24",
+                "104.18.40.0/24",
+                "172.64.147.0/24",
+                "172.64.154.0/24"
             ]
         }
     ]
