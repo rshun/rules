@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,xhscdn.com
   - DOMAIN-SUFFIX,alipay.com
   - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,elemecdn.com
   - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,qq.com
   - DOMAIN-SUFFIX,tencent.com

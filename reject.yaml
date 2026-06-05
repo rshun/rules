@@ -324,11 +324,12 @@ payload:
   - DOMAIN-SUFFIX,guide-acs.taobao.com
   - DOMAIN-SUFFIX,fclog.baidu.com
   - DOMAIN-SUFFIX,hm.baidu.com
-  - DOMAIN-KEYWORD, pclog.
-  - DOMAIN-KEYWORD, applog.
-  - DOMAIN-KEYWORD, ioslog.
-  - DOMAIN-KEYWORD, pc-log.
-  - DOMAIN-KEYWORD, app-log.
-  - DOMAIN-KEYWORD, ios-log.
-  - DOMAIN-KEYWORD, app-analytics 
-  - DOMAIN-KEYWORD, analytics.
+  - DOMAIN-KEYWORD,pclog.
+  - DOMAIN-KEYWORD,applog.
+  - DOMAIN-KEYWORD,ioslog.
+  - DOMAIN-KEYWORD,pc-log.
+  - DOMAIN-KEYWORD,app-log.
+  - DOMAIN-KEYWORD,ios-log.
+  - DOMAIN-KEYWORD,app-analytics 
+  - DOMAIN-KEYWORD,analytics.
+  - DOMAIN-KEYWORD,jpush

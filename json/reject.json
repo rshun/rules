@@ -299,7 +299,8 @@
                 "app-log.",
                 "ios-log.",
                 "app-analytics",
-                "analytics."
+                "analytics.",
+                "jpush"
             ],
             "domain": [
                 "bam.nr-data.net",
