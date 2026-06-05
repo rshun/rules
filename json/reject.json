@@ -262,7 +262,11 @@
                 "googlesyndication-cn.com",
                 "puata.info",
                 "logitech.io",
-                "split.io"
+                "split.io",
+                "kuiniuca.com",
+                "guide-acs.taobao.com",
+                "fclog.baidu.com",
+                "hm.baidu.com"
             ],
             "domain_keyword": [
                 "admarvel",
@@ -287,7 +291,15 @@
                 "umeng",
                 "usage",
                 "wlmonitor",
-                "zjtoolbar"
+                "zjtoolbar",
+                "pclog.",
+                "applog.",
+                "ioslog.",
+                "pc-log.",
+                "app-log.",
+                "ios-log.",
+                "app-analytics",
+                "analytics."
             ],
             "domain": [
                 "bam.nr-data.net",
