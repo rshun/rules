@@ -83,3 +83,10 @@ payload:
   - IP-CIDR,104.18.40.0/24,no-resolve
   - IP-CIDR,172.64.147.0/24,no-resolve
   - IP-CIDR, 172.64.154.0/24,no-resolve
+## > TigerFintech 老虎证券
+  - DOMAIN-SUFFIX,itiger.com
+  - DOMAIN-SUFFIX,laohu8.com
+  - DOMAIN-SUFFIX,tigerbbs.com
+  - DOMAIN-SUFFIX,tigerfintech.com
+  - DOMAIN-SUFFIX,xiaohu8.com
+  - DOMAIN-SUFFIX,zhijianfengyi.com
