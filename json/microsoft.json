@@ -7,9 +7,16 @@
                 "visualstudio.com",
                 "bing.com",
                 "xbox.com",
-                "msftconnecttest.com"
+                "msftconnecttest.com",
+                "microsoft.com",
+                "windows.net",
+                "sfx.ms",
+                "sharepoint.com",
+                "office365.com",
+                "outlook.com"
             ],
             "domain_keyword": [
+                "officecdn",
                 "linkedin",
                 "azure-"
             ]
