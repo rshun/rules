@@ -1395,7 +1395,6 @@ payload:
   - DOMAIN-SUFFIX,alibabacloud.com.tw
   - DOMAIN-SUFFIX,alicloud.com
 ## >> 淘宝
-  - PROCESS-NAME,com.taobao.taobao
   - DOMAIN-SUFFIX,a-isv.org
   - DOMAIN-SUFFIX,aa5d.com
   - DOMAIN-SUFFIX,ahd.so
@@ -2265,8 +2264,6 @@ payload:
   - DOMAIN-SUFFIX,zhanqi.tv
   - DOMAIN-SUFFIX,zhanqu.tv
 ## > 哔哩哔哩
-  - PROCESS-NAME,com.bilibili.app.in
-  - PROCESS-NAME,tv.danmaku.bili
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,animetamashi.com
@@ -2915,7 +2912,6 @@ payload:
   - DOMAIN-SUFFIX,hupujrs.com
   - DOMAIN-SUFFIX,vwanjia.com
 ## > iQIYI (爱奇艺)
-  - PROCESS-NAME,com.qiyi.video
   - DOMAIN-SUFFIX,71.am
   - DOMAIN-SUFFIX,71.am.com
   - DOMAIN-SUFFIX,71edge.com
@@ -3522,7 +3518,6 @@ payload:
   - DOMAIN-SUFFIX,jinshuju.net
   - DOMAIN-SUFFIX,jinshujucdn.com
 ## > 晋江文学城
-  - PROCESS-NAME,com.jjwxc.reader
   - DOMAIN-SUFFIX,chaba123.com
   - DOMAIN-SUFFIX,jjwxc.com
   - DOMAIN-SUFFIX,jjwxc.net
@@ -8238,14 +8233,6 @@ payload:
   - DOMAIN-SUFFIX,xiaogouds.com
   - DOMAIN-SUFFIX,xiaogouzhineng.com
   - DOMAIN-SUFFIX,zhongyangweixiu.com
-  - DOMAIN-SUFFIX,小狗电器.com
-  - DOMAIN-SUFFIX,小狗电器.net
-  - DOMAIN-SUFFIX,小狗电器.中国
-  - DOMAIN-SUFFIX,小狗电器.公司
-  - DOMAIN-SUFFIX,小狗电器.网络
-## 💊 小米
-  - PROCESS-NAME,com.xiaomi.mibrain.speech
-  - PROCESS-NAME,小米云服务.exe
 ## > 小米
   - DOMAIN-SUFFIX,aleenote.com
   - DOMAIN-SUFFIX,facephoto.com
@@ -8257,7 +8244,6 @@ payload:
   - DOMAIN-SUFFIX,mgslb.net
   - DOMAIN-SUFFIX,mgslb.org
   - DOMAIN-SUFFIX,mi-dun.com
-  - DOMAIN-SUFFIX,mi.中国
   - DOMAIN-SUFFIX,mi.com
   - DOMAIN-SUFFIX,mi0.cc
   - DOMAIN-SUFFIX,mij.cc
@@ -8278,7 +8264,6 @@ payload:
   - DOMAIN-SUFFIX,xiaomisa.net
   - DOMAIN-SUFFIX,xiaomisa.org
   - DOMAIN-SUFFIX,zhutidasai.com
-  - DOMAIN-SUFFIX,小米科技有限责任公司.中国
 ## >> MIUI米柚
   - DOMAIN-SUFFIX,miui.com
 ## >> 米聊
@@ -8520,8 +8505,6 @@ payload:
   - DOMAIN-SUFFIX,xlyouxi.net
   - DOMAIN-SUFFIX,xunlei.com
   - DOMAIN-SUFFIX,xunlei.net
-  - PROCESS-NAME,Thunder
-  - PROCESS-NAME,Thunder.exe
 ## >> 烽动CDN
   - DOMAIN-SUFFIX,00cdn.com
   - DOMAIN-SUFFIX,88cdn.com
@@ -9079,31 +9062,29 @@ payload:
   - DOMAIN-SUFFIX,zijiecdn.net
   - DOMAIN-SUFFIX,zjcdn.com
 ## >> TikTok
-  - USER-AGENT,TikTok*
-  - PROCESS-NAME,com.zhiliaoapp.musically
-  - DOMAIN-KEYWORD,-tiktokcdn-com
-  - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
-  - DOMAIN,lf16-pkgcdn.pitaya-clientai.com
-  - DOMAIN,p16-tiktokcdn-com.akamaized.net
-  - DOMAIN,trae-api-sg.mchost.guru
-  - DOMAIN-SUFFIX,byteintlapi.com
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,ibytedtos.com
-  - DOMAIN-SUFFIX,ibyteimg.com
-  - DOMAIN-SUFFIX,ipstatp.com
-  - DOMAIN-SUFFIX,marscode.com
-  - DOMAIN-SUFFIX,muscdn.com
-  - DOMAIN-SUFFIX,musical.ly
-  - DOMAIN-SUFFIX,sgpstatp.com
-  - DOMAIN-SUFFIX,snssdk.com
-  - DOMAIN-SUFFIX,tik-tokapi.com
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tiktokcdn-us.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-SUFFIX,tiktokv.us
-  - DOMAIN-SUFFIX,trae.ai
-  - DOMAIN-SUFFIX,ttwebview.com
+#  - DOMAIN,lf16-effectcdn.byteeffecttos-g.com
+#  - DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+#  - DOMAIN,p16-tiktokcdn-com.akamaized.net
+#  - DOMAIN,trae-api-sg.mchost.guru
+#  - DOMAIN-SUFFIX,byteintlapi.com
+#  - DOMAIN-SUFFIX,byteoversea.com
+#  - DOMAIN-SUFFIX,ibytedtos.com
+#  - DOMAIN-SUFFIX,ibyteimg.com
+#  - DOMAIN-SUFFIX,ipstatp.com
+#  - DOMAIN-SUFFIX,marscode.com
+#  - DOMAIN-SUFFIX,muscdn.com
+#  - DOMAIN-SUFFIX,musical.ly
+#  - DOMAIN-SUFFIX,sgpstatp.com
+#  - DOMAIN-SUFFIX,snssdk.com
+#  - DOMAIN-SUFFIX,tik-tokapi.com
+#  - DOMAIN-SUFFIX,tiktok.com
+#  - DOMAIN-SUFFIX,tiktokcdn-us.com
+#  - DOMAIN-SUFFIX,tiktokcdn.com
+#  - DOMAIN-SUFFIX,tiktokv.com
+#  - DOMAIN-SUFFIX,tiktokv.us
+#  - DOMAIN-SUFFIX,trae.ai
+#  - DOMAIN-SUFFIX,ttwebview.com
+#  - DOMAIN-KEYWORD,-tiktokcdn-com
 ## >> TRAE
 ## >> 抖音火山版
   - DOMAIN-SUFFIX,huoshan.com
