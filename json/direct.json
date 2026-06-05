@@ -22,17 +22,14 @@
                 "tinder.com",
                 "gotinder.com",
                 "tindersparks.com",
-                "cathaypacific.com"
-            ],
-            "ip_cidr": [
-                "192.168.0.0/16",
-                "10.0.0.0/8",
-                "127.0.0.0/8",
-                "172.16.0.0/12",
-                "10.0.0.0/8",
-                "17.0.0.0/8",
-                "100.64.0.0/10",
-                "224.0.0.0/4"
+                "cathaypacific.com",
+                "360buyimg.com",
+                "ele.me",
+                "taobao.com",
+                "xiaohongshu.com",
+                "alidns.com",
+                "kuiniuca.com",
+                "xhscdn.com"
             ]
         }
     ]

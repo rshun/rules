@@ -21,12 +21,11 @@ payload:
   - DOMAIN-SUFFIX,gotinder.com
   - DOMAIN-SUFFIX,tindersparks.com
   - DOMAIN-SUFFIX,cathaypacific.com
-  - IP-CIDR,192.168.0.0/16,no-resolve
-  - IP-CIDR,10.0.0.0/8,no-resolve
-  - IP-CIDR,127.0.0.0/8,no-resolve
-  - IP-CIDR,172.16.0.0/12,no-resolve
-  - IP-CIDR,10.0.0.0/8,no-resolve
-  - IP-CIDR,17.0.0.0/8,no-resolve
-  - IP-CIDR,100.64.0.0/10,no-resolve
-  - IP-CIDR,224.0.0.0/4,no-resolve
-  - IP-CIDR6,fe80::/10,no-resolve
+# > nation
+  - DOMAIN-SUFFIX,360buyimg.com
+  - DOMAIN-SUFFIX,ele.me
+  - DOMAIN-SUFFIX,taobao.com
+  - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,alidns.com
+  - DOMAIN-SUFFIX,kuiniuca.com
+  - DOMAIN-SUFFIX,xhscdn.com
