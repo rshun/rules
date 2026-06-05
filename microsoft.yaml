@@ -3,7 +3,6 @@ payload:
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,bing.com
-  - DOMAIN-SUFFIX,xbox.com
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,windows.net
@@ -12,5 +11,35 @@ payload:
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-KEYWORD,officecdn
+  - DOMAIN-KEYWORD,microsoftonline
   - DOMAIN-KEYWORD,linkedin
   - DOMAIN-KEYWORD,azure-
+# > Xbox
+  - DOMAIN-SUFFIX,forzamotorsport.net
+  - DOMAIN-SUFFIX,forzaracingchampionship.com
+  - DOMAIN-SUFFIX,forzarc.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,msgamestudios.com
+  - DOMAIN-SUFFIX,orithegame.com
+  - DOMAIN-SUFFIX,renovacionxboxlive.com
+  - DOMAIN-SUFFIX,tellmewhygame.com
+  - DOMAIN-SUFFIX,xbox.co
+  - DOMAIN-SUFFIX,xbox.com
+  - DOMAIN-SUFFIX,xbox.eu
+  - DOMAIN-SUFFIX,xbox.org
+  - DOMAIN-SUFFIX,xbox360.co
+  - DOMAIN-SUFFIX,xbox360.com
+  - DOMAIN-SUFFIX,xbox360.eu
+  - DOMAIN-SUFFIX,xbox360.org
+  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,xboxgamepass.com
+  - DOMAIN-SUFFIX,xboxgamestudios.com
+  - DOMAIN-SUFFIX,xboxlive.cn
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,xboxone.co
+  - DOMAIN-SUFFIX,xboxone.com
+  - DOMAIN-SUFFIX,xboxone.eu
+  - DOMAIN-SUFFIX,xboxplayanywhere.com
+  - DOMAIN-SUFFIX,xboxservices.com
+  - DOMAIN-SUFFIX,xboxstudios.com
+  - DOMAIN-SUFFIX,xbx.lv
