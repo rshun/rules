@@ -333,3 +333,5 @@ payload:
   - DOMAIN-KEYWORD,app-analytics 
   - DOMAIN-KEYWORD,analytics.
   - DOMAIN-KEYWORD,jpush
+# 2026.06.07
+  - DOMAIN-SUFFIX,app-ads-services.com
