@@ -335,3 +335,5 @@ payload:
   - DOMAIN-KEYWORD,jpush
 # 2026.06.07
   - DOMAIN-SUFFIX,app-ads-services.com
+# 2026.06.08
+  - DOMAIN-SUFFIX,flyertrip.com

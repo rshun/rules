@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,gotinder.com
   - DOMAIN-SUFFIX,tindersparks.com
   - DOMAIN-SUFFIX,cathaypacific.com
+  - DOMAIN-SUFFIX,ctripins.com
 # > nation
   - DOMAIN-SUFFIX,115.com
   - DOMAIN-SUFFIX,115cdn.com
