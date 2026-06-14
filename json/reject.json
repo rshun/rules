@@ -302,7 +302,6 @@
                 "app-log.",
                 "ios-log.",
                 "app-analytics",
-                "analytics.",
                 "jpush"
             ],
             "domain": [
