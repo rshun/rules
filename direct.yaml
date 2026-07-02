@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,ls.apple.com
   - DOMAIN-SUFFIX,lcdn-registration.apple.com
+  - IP-CIDR6,2403:300:A16:1000::11/32,no-resolve
+  - IP-CIDR6,2403:300:A16:1000::21/32,no-resolve
 # > Other
   - DOMAIN-SUFFIX,cn
   - DOMAIN-SUFFIX,yingshi.tv

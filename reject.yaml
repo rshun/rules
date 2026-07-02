@@ -320,7 +320,6 @@ payload:
   - DOMAIN-SUFFIX,logitech.io
   - DOMAIN-SUFFIX,split.io
 # 2026.06.06 pcdn
-  - DOMAIN-SUFFIX,kuiniuca.com
   - DOMAIN-SUFFIX,guide-acs.taobao.com
   - DOMAIN-SUFFIX,fclog.baidu.com
   - DOMAIN-SUFFIX,hm.baidu.com
