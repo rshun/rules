@@ -55,3 +55,4 @@ payload:
   - IP-CIDR, 123.58.100.0/24,no-resolve
 # > 2026.07.12
   - DOMAIN-SUFFIX,pantone.com
+  - DOMAIN-SUFFIX,openstreetmap.org

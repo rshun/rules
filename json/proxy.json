@@ -23,7 +23,8 @@
                 "canva.com",
                 "funshion.com",
                 "tripdata.app",
-                "pantone.com"
+                "pantone.com",
+                "openstreetmap.org"
             ],
             "ip_cidr": [
                 "31.13.67.0/24",
