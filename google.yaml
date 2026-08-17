@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,urbanairship.com 
+  - DOMAIN-SUFFIX,app-analytics-services.com
   - DOMAIN-KEYWORD,colab
   - DOMAIN-KEYWORD,developerprofiles
   - DOMAIN-KEYWORD,generativelanguage
