@@ -80,7 +80,9 @@
                 "pantone.com",
                 "npmjs.com",
                 "npmjs.org",
-                "nodejs.org"
+                "nodejs.org",
+                "cursor.com",
+                "cursor.sh"
             ],
             "domain_keyword": [
                 "amazonaws",
@@ -102,7 +104,8 @@
                 "wikipedia",
                 "quora",
                 "vimeocdn",
-                "imgur"
+                "imgur",
+                "cursor"
             ],
             "ip_cidr": [
                 "69.197.153.0/24",
