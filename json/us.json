@@ -82,7 +82,8 @@
                 "npmjs.org",
                 "nodejs.org",
                 "cursor.com",
-                "cursor.sh"
+                "cursor.sh",
+                "brew.sh"
             ],
             "domain_keyword": [
                 "amazonaws",
