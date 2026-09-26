@@ -143,3 +143,7 @@ payload:
   - DOMAIN-SUFFIX,tripdata.app
 # > 2026.07.12
   - DOMAIN-SUFFIX,pantone.com
+# > 2026.09.26
+  - DOMAIN-SUFFIX,npmjs.com
+  - DOMAIN-SUFFIX,npmjs.org
+  - DOMAIN-SUFFIX,nodejs.org

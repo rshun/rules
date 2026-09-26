@@ -77,7 +77,10 @@
                 "canva.com",
                 "funshion.com",
                 "tripdata.app",
-                "pantone.com"
+                "pantone.com",
+                "npmjs.com",
+                "npmjs.org",
+                "nodejs.org"
             ],
             "domain_keyword": [
                 "amazonaws",
