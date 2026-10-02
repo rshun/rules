@@ -2,6 +2,29 @@
     "version": 1,
     "rules": [
         {
+            "domain_keyword": [
+                "amazonaws",
+                "amazon",
+                "discord",
+                "paypal",
+                "kraken",
+                "zoho",
+                "github",
+                "justmysock",
+                "airbnb",
+                "medium",
+                "dropbox",
+                "leetcode",
+                "tradingview",
+                "namecheap",
+                "bandwagonhost",
+                "rarbgprx",
+                "wikipedia",
+                "quora",
+                "vimeocdn",
+                "imgur",
+                "cursor"
+            ],
             "domain_suffix": [
                 "amazon.com",
                 "amazon.co.jp",
@@ -83,30 +106,8 @@
                 "nodejs.org",
                 "cursor.com",
                 "cursor.sh",
-                "brew.sh"
-            ],
-            "domain_keyword": [
-                "amazonaws",
-                "amazon",
-                "discord",
-                "paypal",
-                "kraken",
-                "zoho",
-                "github",
-                "justmysock",
-                "airbnb",
-                "medium",
-                "dropbox",
-                "leetcode",
-                "tradingview",
-                "namecheap",
-                "bandwagonhost",
-                "rarbgprx",
-                "wikipedia",
-                "quora",
-                "vimeocdn",
-                "imgur",
-                "cursor"
+                "brew.sh",
+                "openart.ai"
             ],
             "ip_cidr": [
                 "69.197.153.0/24",
