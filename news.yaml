@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,ft.com
 # >Bloomberg
   - DOMAIN-SUFFIX,bwbx.io
-  - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-KEYWORD,bloomberg
 # >BBC
   - DOMAIN-SUFFIX,bbc.com

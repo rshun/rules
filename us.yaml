@@ -1,14 +1,10 @@
 payload:
 # > Amazon
-  - DOMAIN-SUFFIX,amazon.com
-  - DOMAIN-KEYWORD,amazonaws
   - DOMAIN-KEYWORD,amazon
-  - DOMAIN-SUFFIX,amazon.co.jp
 # > Other
   - DOMAIN-SUFFIX,klook.com
   - DOMAIN-SUFFIX,rust-lang.org
   - DOMAIN-SUFFIX,wise.com
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,gitlab.com
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,binance.com
@@ -28,9 +24,7 @@ payload:
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,e-resident.gov.ee
   - DOMAIN-SUFFIX,getoutline.org
-  - DOMAIN-SUFFIX,asuswrt-merlin.net
   - DOMAIN-SUFFIX,agoda.com
-  - DOMAIN-SUFFIX,cathaypacific.com
   - DOMAIN-SUFFIX,aritzia.com
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-KEYWORD,discord
@@ -42,7 +36,7 @@ payload:
   - DOMAIN-KEYWORD,airbnb
   - DOMAIN-KEYWORD,medium
   - DOMAIN-KEYWORD,dropbox
-  - DOMAIN-KEYWORD,leetcode
+  - DOMAIN-SUFFIX,leetcode.com
   - DOMAIN-KEYWORD,tradingview
   - DOMAIN-KEYWORD,namecheap
   - DOMAIN-KEYWORD,bandwagonhost
@@ -59,9 +53,7 @@ payload:
   - DOMAIN-SUFFIX,yfsp.tv
   - DOMAIN-SUFFIX,hlive.io
   - DOMAIN-SUFFIX,3qi.live
-  - DOMAIN-SUFFIX,yingshi.tv
   - DOMAIN-SUFFIX,iyf.tv
-  - DOMAIN-SUFFIX,gitv.tv
   - DOMAIN-SUFFIX,ziqoixtv.com
 # > Speak
   - DOMAIN-SUFFIX,usespeak.com
@@ -100,11 +92,9 @@ payload:
   - IP-CIDR, 142.250.0.0/16,no-resolve
   - IP-CIDR, 142.251.0.0/16,no-resolve
   - IP-CIDR, 144.76.0.0/24,no-resolve
-  - IP-CIDR, 149.154.0.0/16,no-resolve
   - IP-CIDR, 185.204.1.0/24,no-resolve
   - IP-CIDR, 185.15.58.0/24,no-resolve
   - IP-CIDR, 198.35.26.0/24,no-resolve
-  - IP-CIDR, 199.59.150.0/24,no-resolve
   - IP-CIDR, 193.23.244.244/32,no-resolve
   - IP-CIDR, 65.109.16.131/32,no-resolve
   - IP-CIDR, 64.98.115.209/32,no-resolve
@@ -139,7 +129,6 @@ payload:
 # > 2026.01.23
   - DOMAIN-KEYWORD,imgur
 # > 2026.05.16
-  - DOMAIN-SUFFIX,funshion.com
   - DOMAIN-SUFFIX,tripdata.app
 # > 2026.07.12
   - DOMAIN-SUFFIX,pantone.com
@@ -147,10 +136,9 @@ payload:
   - DOMAIN-SUFFIX,npmjs.com
   - DOMAIN-SUFFIX,npmjs.org
   - DOMAIN-SUFFIX,nodejs.org
-  - DOMAIN-SUFFIX,cursor.com
-  - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,brew.sh
   - DOMAIN-KEYWORD,cursor
   - DOMAIN-SUFFIX,openart.ai
 # > 2026.11.20
   - DOMAIN-SUFFIX,kubb.tv
+  - DOMAIN-KEYWORD,cloudflare

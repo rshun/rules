@@ -32,7 +32,6 @@ payload:
   - DOMAIN-SUFFIX,bj00593.com
   - DOMAIN-SUFFIX,bmclima.com
   - DOMAIN-SUFFIX,bnpzhned.tw
-  - DOMAIN-SUFFIX,cn.pornhub.com
   - DOMAIN-SUFFIX,diandongzhi.com
   - DOMAIN-SUFFIX,epochtimes.com
   - DOMAIN-SUFFIX,gdgzjh.com
@@ -120,8 +119,7 @@ payload:
   - DOMAIN-KEYWORD,zjtoolbar
   - DOMAIN-SUFFIX,open.e.kuaishou.com
   - DOMAIN-SUFFIX,igexin.com
-  - DOMAIN-SUFFIX,mapi.ileci.com/v2
-  - DOMAIN-SUFFIX,mapi.ileci.com/v1
+  - DOMAIN-SUFFIX,mapi.ileci.com
   - DOMAIN-SUFFIX,trackingio.com
   - DOMAIN-SUFFIX,eco.taobao.com
   - DOMAIN-SUFFIX,ad.12306.cn
@@ -142,7 +140,6 @@ payload:
   - DOMAIN-SUFFIX,hectorstatic.baidu.com
   - DOMAIN-SUFFIX,v.gdt.qq.com
   - DOMAIN-SUFFIX,ut.taobao.com
-  - DOMAIN-SUFFIX,adashbc.ut.taobao.com
   - DOMAIN-SUFFIX,bayescom.cn
   - DOMAIN-SUFFIX,bayescom.com
   - DOMAIN-SUFFIX,gepush.com
@@ -151,10 +148,8 @@ payload:
   - DOMAIN-SUFFIX,smyfinancial.com
   - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,umsns.com
-  - DOMAIN-SUFFIX,umengcloud.com
   - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,qiyukf.com
-  - DOMAIN-SUFFIX,jpush.cn
   - DOMAIN-SUFFIX,e.qq.com
   - DOMAIN-SUFFIX,flurry.co
   - DOMAIN-SUFFIX,adjust.com
@@ -165,16 +160,12 @@ payload:
   - DOMAIN-SUFFIX,madmini.com
   - DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,wrating.com
-  - DOMAIN-SUFFIX,admaster.com.cn
   - DOMAIN-SUFFIX,51.la
   - DOMAIN-SUFFIX,acs86.com
   - DOMAIN-SUFFIX,adchina.com
   - DOMAIN-SUFFIX,adcome.cn
   - DOMAIN-SUFFIX,adinfuse.com
   - DOMAIN-SUFFIX,admob.com
-  - DOMAIN-SUFFIX,adsage.cn
-  - DOMAIN-SUFFIX,adsage.com
-  - DOMAIN-SUFFIX,adsmogo.org
   - DOMAIN-SUFFIX,ads.mobclix.com
   - DOMAIN-SUFFIX,adview.cn
   - DOMAIN-SUFFIX,adwhirl.com
@@ -192,11 +183,6 @@ payload:
   - DOMAIN-SUFFIX,baifendian.com
   - DOMAIN-SUFFIX,beacon.sina.com.cn
   - DOMAIN-SUFFIX,cnzz.com
-  - DOMAIN-SUFFIX,domob.com.cn
-  - DOMAIN-SUFFIX,domob.org
-  - DOMAIN-SUFFIX,duomeng.cn
-  - DOMAIN-SUFFIX,duomeng.net
-  - DOMAIN-SUFFIX,duomeng.org
   - DOMAIN-SUFFIX,googeadsserving.cn
   - DOMAIN-SUFFIX,guomob.com
   - DOMAIN-SUFFIX,inmobi.com
@@ -208,7 +194,6 @@ payload:
   - DOMAIN-SUFFIX,mobads-logs.baidu.com
   - DOMAIN-SUFFIX,smartadserver.com
   - DOMAIN-SUFFIX,tapjoyads.com
-  - DOMAIN-SUFFIX,m.simaba.taobao.com
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,sax.sina.cn
   - DOMAIN-SUFFIX,tanx.com
@@ -247,7 +232,6 @@ payload:
   - DOMAIN,nsclick.baidu.com
   - DOMAIN,acjs.aliyun.com
   - DOMAIN,adash.m.taobao.com
-  - DOMAIN,ads.mopub.com
   - DOMAIN,ark.letv.com
   - DOMAIN,asimgs.pplive.cn
   - DOMAIN,csi.gstatic.com
@@ -289,9 +273,7 @@ payload:
   - DOMAIN-SUFFIX,tracking.miui.com
   - DOMAIN-SUFFIX,resolver.msg.xiaomi.net
   - DOMAIN-SUFFIX,ptmi.gitv.tv
-  - DOMAIN-SUFFIX,coml7.pandora.xiaomi.com
   - DOMAIN-SUFFIX,tv.mi.com
-  - DOMAIN-SUFFIX,input.shouji.sogou.com
   - DOMAIN-SUFFIX,bv.brg0.com
   - DOMAIN-SUFFIX,ccc.sys.miui.com
   - DOMAIN-SUFFIX,hpplay.cn
@@ -299,7 +281,7 @@ payload:
   - DOMAIN-SUFFIX,mitvos.com
   - DOMAIN-SUFFIX,io.mi.com
   - IP-CIDR,221.179.140.0/24,no-resolve
-  - IP-CIDR,60.210.17.12/24,no-resolve
+  - IP-CIDR,60.210.17.0/24,no-resolve
 # 2024.06.09
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,cloud.adobe.io
@@ -307,15 +289,12 @@ payload:
   - DOMAIN-SUFFIX,scorecardresearch.com
   - DOMAIN-SUFFIX,adobedtm.com
 # 2024.06.19
-  - DOMAIN-SUFFIX,jpush-ipv6.cn
 # 2024.09.21
   - DOMAIN-SUFFIX,csdn.net
 # 2024.09.21
   - DOMAIN-SUFFIX,appsflyersdk.com
 # 2025.10.18
   - DOMAIN-SUFFIX,crwdcntrl.net
-  - DOMAIN-SUFFIX,googlesyndication.com
-  - DOMAIN-SUFFIX,googlesyndication-cn.com
   - DOMAIN-SUFFIX,puata.info
   - DOMAIN-SUFFIX,logitech.io
   - DOMAIN-SUFFIX,split.io

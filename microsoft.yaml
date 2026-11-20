@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,sfx.ms
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,office365.com
+  - DOMAIN-SUFFIX,office.com
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-KEYWORD,officecdn
   - DOMAIN-KEYWORD,microsoftonline

@@ -5,7 +5,6 @@
             "domain": [
                 "lf16-effectcdn.byteeffecttos-g.com",
                 "lf16-pkgcdn.pitaya-clientai.com",
-                "p16-tiktokcdn-com.akamaized.net",
                 "trae-api-sg.mchost.guru"
             ],
             "domain_suffix": [
@@ -20,18 +19,9 @@
                 "isnssdk.com",
                 "marscode.com",
                 "muscdn.com",
-                "musical.ly",
                 "sgpstatp.com",
                 "snssdk.com",
                 "tik-tokapi.com",
-                "tiktok.com",
-                "tiktokcdn-us.com",
-                "tiktokcdn.com",
-                "tiktokd.net",
-                "tiktokd.org",
-                "tiktokmusic.app",
-                "tiktokv.com",
-                "tiktokv.us",
                 "trae.ai",
                 "ttwebview.com"
             ],
