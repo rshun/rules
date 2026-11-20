@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.app
+  - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claudeusercontent.com
 # > POE
   - DOMAIN-SUFFIX,poe.com
