@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-KEYWORD,disney
+  - DOMAIN-SUFFIX,hbomax.com

@@ -2,6 +2,9 @@
     "version": 1,
     "rules": [
         {
+            "domain_keyword": [
+                "disney"
+            ],
             "domain_suffix": [
                 "adobedtm.com",
                 "bam.nr-data.net",
@@ -11,10 +14,8 @@
                 "cws.conviva.com",
                 "d9.flashtalking.com",
                 "dssott.com",
-                "js-agent.newrelic.com"
-            ],
-            "domain_keyword": [
-                "disney"
+                "js-agent.newrelic.com",
+                "hbomax.com"
             ]
         }
     ]
