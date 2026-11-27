@@ -142,3 +142,4 @@ payload:
 # > 2026.11.20
   - DOMAIN-SUFFIX,kubb.tv
   - DOMAIN-KEYWORD,cloudflare
+  - DOMAIN-SUFFIX,tubitv.com
