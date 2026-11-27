@@ -2,6 +2,15 @@
     "version": 1,
     "rules": [
         {
+            "domain_keyword": [
+                "colab",
+                "developerprofiles",
+                "generativelanguage",
+                "google",
+                "blogspot",
+                "youtube",
+                "gmail"
+            ],
             "domain_suffix": [
                 "ytimg.com",
                 "appspot.com",
@@ -18,16 +27,8 @@
                 "deepmind.com",
                 "youtu.be",
                 "urbanairship.com",
-                "app-analytics-services.com"
-            ],
-            "domain_keyword": [
-                "colab",
-                "developerprofiles",
-                "generativelanguage",
-                "google",
-                "blogspot",
-                "youtube",
-                "gmail"
+                "app-analytics-services.com",
+                "recaptcha.net"
             ],
             "ip_cidr": [
                 "35.190.247.0/24",
