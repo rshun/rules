@@ -143,3 +143,4 @@ payload:
   - DOMAIN-SUFFIX,kubb.tv
   - DOMAIN-KEYWORD,cloudflare
   - DOMAIN-SUFFIX,tubitv.com
+  - DOMAIN-SUFFIX,steamstatic.com

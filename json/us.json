@@ -99,7 +99,8 @@
                 "brew.sh",
                 "openart.ai",
                 "kubb.tv",
-                "tubitv.com"
+                "tubitv.com",
+                "steamstatic.com"
             ],
             "ip_cidr": [
                 "69.197.153.0/24",
